@@ -1,26 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
     </div>
   );
 }
 
 export default App;
+
+// ce44357cb799f5886cc35bc2c05ac69a
+// eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZTQ0MzU3Y2I3OTlmNTg4NmNjMzViYzJjMDVhYzY5YSIsInN1YiI6IjVmOGY0Y2E1YzA0OGE5MDAzOTQwNThhMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.711ByiNuTsA5NrEcsU4jzkYlhUfzhkMdinasUdwD4w8
+// https://api.themoviedb.org/3/movie/550?api_key=ce44357cb799f5886cc35bc2c05ac69a
